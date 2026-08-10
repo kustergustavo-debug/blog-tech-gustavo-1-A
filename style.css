@@ -1,0 +1,15 @@
+body{
+    background-color: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+header{
+    background-color: deepskyblue;
+    text-align: center;
+    padding: 16px;
+    margin:0 auto;
+}
+section{
+    background-color: white;
+    padding: 16px
+    margin: 16px;
+}
