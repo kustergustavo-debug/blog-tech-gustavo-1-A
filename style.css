@@ -10,6 +10,12 @@ header{
 }
 section{
     background-color: white;
-    padding: 16px
+    padding: 16px;
     margin: 16px;
+}
+.conteudo-site{
+    display:flex;
+    flex-wrap: warp;
+    ustify-content: space-around;
+
 }
